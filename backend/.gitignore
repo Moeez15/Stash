@@ -17,3 +17,5 @@ logs/
 # Editor
 .vscode/
 .idea/
+
+/generated/prisma
